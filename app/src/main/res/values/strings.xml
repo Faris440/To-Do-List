@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Todo-App</string>
+    <string name="nouvelle_t_che">Nouvelle Tâche</string>
+    <string name="todo">TODO</string>
+    <string name="entrer_le_titre_de_la_t_che">Entrer le titre de la Tâche</string>
+    <string name="description_de_la_t_che">Description de la Tâche</string>
+    <string name="enregister">Enregister</string>
+    <string name="chargement">Chargement....</string>
+    <string name="modifier">Modifier</string>
+    <string name="nouveau_titre">Nouveau titre</string>
+    <string name="sauvegarder">Sauvegarder</string>
+    <string name="nouvelle_description">Nouvelle description</string>
+    <string name="titre">Titre</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+</resources>
